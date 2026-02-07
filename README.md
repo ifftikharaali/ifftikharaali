@@ -27,7 +27,7 @@ I am a focused **Web Developer** specializing in building functional, data-drive
 
 ## 📈 GitHub Status
 
-![Alishba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ifftikharaali&show_icons=true&theme=radical)
+![Alishba's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ifftikharaali&theme=dracula)
 *(Note: Replace YOUR_GITHUB_USERNAME with your actual GitHub handle)*
 
 ---
